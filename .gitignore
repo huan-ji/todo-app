@@ -17,4 +17,4 @@
 /tmp
 
 node_modules
-/app/Javascripts/bundle.js
+/app/assets/Javascripts/bundle.js
